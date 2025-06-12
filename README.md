@@ -23,7 +23,11 @@ Links - https://www.youtube.com/watch?v=YnSv8ylLfPw , https://www.youtube.com/wa
    b. ProtonVpn
    3. ExpressVpn
 
-3. AI
+3. Cookies and GPS
+   One of the main ways data tracks you is from you geographical location and cookies (Your online location). On device settings can be tuned to turn these off. You'll be amazed on how many apps want to actively know your location! Cookies can also be disabled on most devices and can be diabled in browser. 
+   
+   
+5. AI
    Ai is a new problem in the data broker war. Companies are collecting your data to train Ai and we dont know the consequences this could have so better to be safe than sorry. I suggest self hosting an LLM if all you need is a chatbot. (see HuggingFace for best local LLM's : https://huggingface.co/models)
 
    Avoid
@@ -40,7 +44,12 @@ Links - https://www.youtube.com/watch?v=YnSv8ylLfPw , https://www.youtube.com/wa
          Thes accounts dont need to have accurate information. Dont post your face if you dont have too. Your age should be different on each platform. Make a unique Username for each account. Turn off location data in settings (especially SnapChat Maps).
 
      b. Blog and art sites. - Reddit, tumblr, DeviantArt etc..
-         These accounts are mainly used for browsing and unless your trying to form an audience, they can be used
+         These accounts are mainly used for browsing and unless your trying to form an audience, they can be used totally wrong data. You open accounts with temporary emails. When answering the personalization questions answer as someone else or completley random, because data brokers will store your device ip adress with their logs these accounts will help scramble what youve put out. When the data algorithm stores the posioned data it wont be able to know lies from truth so it'll store it all and the more accounts you have with random data the better. (Each account should have a different profile).
+
+    Example: A straight white male who's into sports --> Lesbain Indian transwoman who's into performance art.
+
+2. Further reinforcing bad data
+   When you begin to experince the results of you data manipulation and begin to see adds for things you dont like, you have the opportunity to clcik on these irrelevant adds to further reinforce the bad data on your profile.
          
 
 
