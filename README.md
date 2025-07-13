@@ -35,6 +35,11 @@ Links - https://www.youtube.com/watch?v=YnSv8ylLfPw , https://www.youtube.com/wa
      b. Perplexity
      c. Microsoft CoPilot
 
+6. Extension
+      You can use extensions to help automate the process of reducing tracking.
+         a. ClearURl - removes teacking from url links
+         b. ...
+
 **Posioning**
 
 1. Online Accounts
